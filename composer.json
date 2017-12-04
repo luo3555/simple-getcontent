@@ -1,0 +1,12 @@
+{
+    "name": "daniel/public_html",
+    "require": {
+        "rmccue/requests": "^1.7"
+    },
+    "authors": [
+        {
+            "name": "Daniel luo",
+            "email": "luo3555@qq.com"
+        }
+    ]
+}
